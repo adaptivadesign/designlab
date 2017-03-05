@@ -38,9 +38,10 @@ nav.nav {
   ul.navigation {
     @include remove_webkit;
     list-style-type: none;
+    margin-left: 5%;
     li {
-      display: block;
-      float: left;
+      display: inline-block;
+      margin-right: 20px;
     }
   }
 }
