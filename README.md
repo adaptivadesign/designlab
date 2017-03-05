@@ -1,2 +1,0 @@
-# jesserogers
-Portfolio Site
